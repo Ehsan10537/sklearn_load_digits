@@ -1,3 +1,2 @@
-This Dataset contains pixle digits representing handwritten digits images along with their corresponding labels.
-each row represents a digitized image
-each datapoint is an 8*8 image 
+This Dataset contains digits representing the pixles of images which are handritten numbers ranging from 0 to 9. The label column is also included which represents the number shown in the image.
+each row represents a digitized image of size 8*8 pixles, which are now vectorized as dataframe rows.
